@@ -1,7 +1,8 @@
 repo_name: 24amcoder-sb/developing-cloud-native-solutions-ms-azure
 report_id: d1fd187964b3f35863aa0e92afc8dbec
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T04:21:13+00:00'
+timestamp: '2024-01-05T08:39:43+00:00'
 requested_by: MarkP88
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -27,7 +29,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source: Ch09/SubtractAPI/SubtractAPI.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch09/AddAPI/AddAPI.csproj
+  detection_source: Ch09/AddAPI/AddAPI.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
 - name: ".NET Core"
@@ -41,8 +44,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: Ch02_DentalAppointments-master/DentalAppointments/DentalAppointments.csproj
-  detection_source: IoTHubEventProcessor-master/IoTHubEventProcessor/IoTHubEventProcessor.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch02_DentalAppointments-master/DentalAppointments/DentalAppointments.csproj
+  detection_source: Ch02_DentalAppointments-master/DentalAppointments/DentalAppointments.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
 - name: ASP.NET Core
@@ -56,8 +59,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: Ch02_DentalAppointments-master/DentalAppointments/DentalAppointments.csproj
-  detection_source: IoTHubEventProcessor-master/IoTHubEventProcessor/IoTHubEventProcessor.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch02_DentalAppointments-master/DentalAppointments/DentalAppointments.csproj
+  detection_source: Ch02_DentalAppointments-master/DentalAppointments/DentalAppointments.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
 - name: Azure Cosmos DB
@@ -68,6 +71,7 @@ tools:
   category: Data Stores
   sub_category: NoSQL Database as a Service
   image_url: https://img.stackshare.io/service/1369/nquiptD9.png
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/IoTHubEventProcessor-master/IoTHubEventProcessor/IoTHubEventProcessor.csproj
   detection_source: IoTHubEventProcessor-master/IoTHubEventProcessor/IoTHubEventProcessor.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
@@ -80,6 +84,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -89,6 +94,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -98,7 +104,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
-  detection_source: Ch09/SubtractAPI/SubtractAPI.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch09/AddAPI/AddAPI.csproj
+  detection_source: Ch09/AddAPI/AddAPI.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
 - name: Visual Studio
@@ -110,6 +117,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch02_DentalAppointments-master/DentalAppointments.sln
   detection_source: Ch02_DentalAppointments-master/DentalAppointments.sln
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
@@ -122,7 +130,8 @@ tools:
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://img.stackshare.io/service/6417/jwt-icon.png
-  detection_source: Ch09/MathAPI/MathAPI.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch07/MathAPI/MathAPI.csproj
+  detection_source: Ch07/MathAPI/MathAPI.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
 - name: OpenID Connect
@@ -133,7 +142,8 @@ tools:
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://img.stackshare.io/service/3620/openid-icon-250x250_400x400.png
-  detection_source: Ch09/MathAPI/MathAPI.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch07/MathAPI/MathAPI.csproj
+  detection_source: Ch07/MathAPI/MathAPI.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
 - name: Microsoft.ApplicationInsights.AspNetCore
@@ -146,8 +156,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13203/default_e23dabba1be2c69fbf5fc50bdc46cbffbe6ca2cb.png
-  detection_source_url: Ch09/AddAPI/obj/project.assets.json
-  detection_source: Ch09/SubtractAPI/SubtractAPI.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch09/AddAPI/obj/project.assets.json
+  detection_source: Ch09/AddAPI/AddAPI.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
 - name: Microsoft.AspNetCore.Authentication.JwtBearer
@@ -161,8 +171,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12968/default_dd10728859f7e363ef13345d855b2daba48cace4.png
-  detection_source_url: Ch07/MathAPI/obj/project.assets.json
-  detection_source: Ch09/MathAPI/MathAPI.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch07/MathAPI/obj/project.assets.json
+  detection_source: Ch07/MathAPI/MathAPI.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
 - name: Microsoft.AspNetCore.Authentication.OpenIdConnect
@@ -176,8 +186,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13385/default_97f005023342604c2e0668a9597b9eb6971b1d06.png
-  detection_source_url: Ch07/MathAPI/obj/project.assets.json
-  detection_source: Ch09/MathAPI/MathAPI.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch07/MathAPI/obj/project.assets.json
+  detection_source: Ch07/MathAPI/MathAPI.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
 - name: Microsoft.Extensions.Hosting
@@ -190,7 +200,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13013/default_dd10728859f7e363ef13345d855b2daba48cace4.png
-  detection_source_url: Ch03_QueueProcessor-master/QueueProcessor/QueueProcessor.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch03_QueueProcessor-master/QueueProcessor/QueueProcessor.csproj
   detection_source: Ch03_QueueProcessor-master/QueueProcessor/QueueProcessor.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
@@ -204,13 +214,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: Ch09/AddAPI/obj/project.assets.json
-  detection_source: Ch10_MyTextTranslator-master/MyTextTranslator.Api/MyTextTranslator.Api.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch09/AddAPI/obj/project.assets.json
+  detection_source: Ch02_DentalAppointments-master/DentalAppointments/DentalAppointments.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -225,7 +241,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: Ch06/AddAPI/obj/project.assets.json
-  detection_source: Ch09/SubtractAPI/SubtractAPI.csproj
+  detection_source_url: https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure/blob/main/Ch06/AddAPI/obj/project.assets.json
+  detection_source: Ch06/AddAPI/AddAPI.csproj
   last_updated_by: markp88
   last_updated_on: 2023-04-14 10:46:38.000000000 Z
