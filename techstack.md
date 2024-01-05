@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 24amcoder-sb/developing-cloud-native-solutions-ms-azure is built on the following main stack:
+
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [C#](http://csharp.net) – Languages
 - [Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/) – NoSQL Database as a Service
@@ -13,11 +14,13 @@
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 24amcoder-sb/developing-cloud-native-solutions-ms-azure is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1369/nquiptD9.png' alt='Azure Cosmos DB'/> [Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/) – NoSQL Database as a Service
@@ -29,14 +32,15 @@ Full tech stack [here](/techstack.md)
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [24amcoder-sb/developing-cloud-native-solutions-ms-azure](https://github.com/24amcoder-sb/developing-cloud-native-solutions-ms-azure)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|17<br/>Tools used|11/16/23 <br/>Report generated|
+|17<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -164,7 +168,7 @@ Full tech stack [here](/techstack.md)
 |[Microsoft.AspNetCore.Authentication.JwtBearer](https://www.nuget.org/Microsoft.AspNetCore.Authentication.JwtBearer)|v6.0.8|04/14/23|markp88 |Apache-2.0|N/A|
 |[Microsoft.AspNetCore.Authentication.OpenIdConnect](https://www.nuget.org/Microsoft.AspNetCore.Authentication.OpenIdConnect)|v6.0.8|04/14/23|markp88 |Apache-2.0|N/A|
 |[Microsoft.Extensions.Hosting](https://www.nuget.org/Microsoft.Extensions.Hosting)|v6.0.1|04/14/23|markp88 |Apache-2.0|N/A|
-|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v11.0.2|04/14/23|markp88 |MIT|[](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v11.0.2|04/14/23|markp88 |MIT|[](https://github.com/advisories/GHSA-8rfx-6mr3-5jh3) (High)<br/>[CVE-2024-21907](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
 |[Swashbuckle.AspNetCore](https://www.nuget.org/Swashbuckle.AspNetCore)|v6.2.3|04/14/23|markp88 |BSD-3-Clause|N/A|
 
 <br/>
